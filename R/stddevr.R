@@ -5,7 +5,7 @@
 #' @export
 #' @examples
 #' library(gapminder)
-#' standard_deviation(gapminder$lifeExp)
+#' standard_deviation(c(1,2,3,4,5))
 
 standard_deviation <- function(x) {
   n <- length(x)
