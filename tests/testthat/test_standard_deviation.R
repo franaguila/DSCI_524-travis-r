@@ -1,4 +1,5 @@
 library(testthat)
+source("./../../R/stddevr.R", local = TRUE)
 
 context("Testing the standard deviation function")
 

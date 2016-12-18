@@ -1,4 +1,5 @@
 library(testthat)
+source("./../../R/serror.R", local = TRUE)
 
 context("Testing the standard error function")
 
