@@ -1,6 +1,6 @@
 #' Calculate the Standard Error
 #
-#' @param x a numeric vector
+#' @param nums a numeric vector
 #' @return the standard error of all the elements of the vector
 #' @export
 #'
