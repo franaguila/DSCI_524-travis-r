@@ -4,10 +4,10 @@
 \alias{standard_deviation}
 \title{Gets the standard deviation of values in x.}
 \usage{
-standard_deviation(c(1,2,3,4,5))
+standard_deviation(x)
 }
 \arguments{
-\item{x a numeric vector}
+\item{x}{a numeric vector}
 }
 \value{
 the standard deviation of x
