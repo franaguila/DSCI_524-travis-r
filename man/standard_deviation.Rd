@@ -16,6 +16,5 @@ a number: the standard deviation of x
 Gets the standard deviation of values in x.
 }
 \examples{
-stddevr(gapminder$lifeExp)
+standard_deviation(gapminder$lifeExp)
 }
-
