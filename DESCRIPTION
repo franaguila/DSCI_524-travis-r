@@ -5,9 +5,13 @@ Authors@R: person("First", "Last", email = "first.last@example.com", role = c("a
 Description: Calculates the standard error and standard deviation
 Depends:
     R (>= 3.3.1)
+Imports:
+    testthat
+Suggests:
+    gapminder
+
+
 License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 5.0.1
-Suggests:
-    gapminder
