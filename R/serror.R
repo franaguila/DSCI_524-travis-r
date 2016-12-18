@@ -1,7 +1,7 @@
 #' Calculate the Standard Error
 #
-#' @param x: a numeric vector
-#' @return a number (the standard error of all the elements of the vector)
+#' @param x a numeric vector
+#' @return the standard error of all the elements of the vector
 #' @export
 #'
 #' @examples

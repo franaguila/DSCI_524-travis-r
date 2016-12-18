@@ -1,7 +1,7 @@
 #' Gets the standard deviation of values in x.
 #'
-#' @param x: a numeric vector
-#' @return a number: the standard deviation of x
+#' @param x a numeric vector
+#' @return the standard deviation of x
 #' @export
 #' @examples
 #' library(gapminder)

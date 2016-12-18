@@ -4,13 +4,13 @@
 \alias{standard_error}
 \title{Calculate the Standard Error}
 \usage{
-standard_error(x)
+standard_error(c(1,2,3,4,5))
 }
 \arguments{
-\item{x:}{a numeric vector}
+\item{x a numeric vector}
 }
 \value{
-a number (the standard error of all the elements of the vector)
+the standard error of all the elements of the vector
 }
 \description{
 Calculate the Standard Error
