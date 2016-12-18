@@ -5,7 +5,7 @@
 #' @export
 #'
 #' @examples
-#' standard_error(seq(1,100,2))
+#' standard_error(c(1,2,3,4,5))
 
 standard_error <- function(x) {
   return(standard_deviation(x)/sqrt(length(x)))
