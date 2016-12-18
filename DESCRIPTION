@@ -1,0 +1,13 @@
+Package: stddevr
+Title: Fran's super awesome Math utility functions
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Calculates the standard error and standard deviation
+Depends:
+    R (>= 3.3.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests:
+    gapminder
