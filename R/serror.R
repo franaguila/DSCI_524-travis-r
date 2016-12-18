@@ -8,5 +8,7 @@
 #' standard_error(c(1,2,3,4,5))
 
 standard_error <- function(x) {
-  return(standard_deviation(x)/sqrt(length(x)))
+    sd <- standard_deviation(x)
+    se <- sd / sqrt(length(x))
+    return(se)
 }
