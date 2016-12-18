@@ -14,3 +14,5 @@ library(stddevr)
 standard_deviation(c(1,2,3,4,5))
 standard_error(c(1,2,3,4,5))
 ```
+
+[![Build Status](https://travis-ci.org/franaguila/DSCI_524-travis-r.svg?branch=master)](https://travis-ci.org/franaguila/DSCI_524-travis-r)
