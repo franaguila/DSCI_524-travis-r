@@ -1,5 +1,4 @@
 library(testthat)
-source("../R/stddevr.R")
 
 context("Testing the standard deviation function")
 
